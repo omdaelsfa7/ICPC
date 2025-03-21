@@ -36,6 +36,8 @@ int32_t main() // el int hna 4klha 8reb 34an el main function f cpp lazem t retu
 {
     // git lens da emfrood eno aktr extention most5dm 3la vs code asln bs ana lsa mgrbto4 bs emfrood eno gamed f45 
     // howa extention github y3ny
+    // howa 7rfyn 48al autonmatic
+    // 4klo lzez 3mtn
     FIO; // el line da by initialize dol
     int t = 1;
     // cin >> t;
